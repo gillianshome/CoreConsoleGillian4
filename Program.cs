@@ -8,7 +8,7 @@ namespace CoreConsoleGillian
         static void Main(string[] args)
         {
             int i = 0;
-            while (i < 10)
+            while (i < 5)
             {
                 Thread.Sleep(2000);
                 Console.WriteLine(GetLetter());
