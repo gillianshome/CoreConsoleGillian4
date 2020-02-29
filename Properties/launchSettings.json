@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CoreConsoleGillian": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
